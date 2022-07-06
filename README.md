@@ -3,6 +3,12 @@
 
 <p align="left">
   <img
+    src="http://192.168.42.142:5500/gif.gif"
+    alt="nayem707"
+  />
+</p>
+<p align="left">
+  <img
     src="https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat"
     alt="nayem707"
   />
