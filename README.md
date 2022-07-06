@@ -212,6 +212,14 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=nayem707"
+      alt="nayem707"
+  /></a>
+</p>
+
 <p>
   <img
     align="left"
@@ -221,7 +229,7 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&locale=en"
     alt="nayem707"
@@ -236,10 +244,4 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=nayem707"
-      alt="nayem707"
-  /></a>
-</p>
+
