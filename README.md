@@ -18,14 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/inaeem707" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="naeem.islam.714655"
-      height="30"
-      width="40"
-  /></a>
+  
   <a href="https://twitter.com/snnayem707" target="blank"
     ><img
       align="center"
@@ -70,6 +63,14 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="naeem.islam.714655"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://codepen.io/inaeem707" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       alt="naeem.islam.714655"
       height="30"
       width="40"
@@ -181,7 +182,6 @@
       height="40"
     />
   </a>
-  <p>Others:</p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -190,6 +190,7 @@
       height="40"
     />
   </a>
+  <p>Others Application:</p>
   <a
     href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank"
@@ -210,14 +211,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=nayem707"
-      alt="nayem707"
-  /></a>
 </p>
 
 <p>
