@@ -18,9 +18,14 @@
   /></a>
 </p>
 
+- 🔭 I’m currently working on **Back-End**
+- 🌱 I’m currently learning **PHP/Laravel**
+- 💬 Ask me about **Front-end React-JS**
+- 📫 How to reach me **inaeem707@gmail.com**
+- ⚡ Fun fact, **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
   <a href="https://twitter.com/snnayem707" target="blank"
     ><img
       align="center"
