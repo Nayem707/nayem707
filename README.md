@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/naeem.islam.714655" target="blank"
+  <a href="https://codepen.io/inaeem707" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -34,7 +34,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/naeem.islam.714655" target="blank"
+  <a href="https://www.linkedin.com/in/nayem-islam-281b76240/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -42,7 +42,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/naeem.islam.714655" target="blank"
+  <a href="https://stackoverflow.com/users/18699242/nayem-islam?tab=profile" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -66,7 +66,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.youtube.com/c/naeem.islam.714655" target="blank"
+  <a href="https://www.youtube.com/channel/UC6E2R0w0AGtiX_zk1fT4Rew/playlists" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
