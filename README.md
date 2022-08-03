@@ -1,8 +1,7 @@
-
-<p align="center">
-    <h1> Hi I am Nayem Islam</h1>
-   Web Devlopment
-</p>
+<h1> Hi👋 I am Nayem Islam</h1>
+<h3 align="left"> 
+   Web Designer & Devlopment
+</h3>
 
 <p align="left">
   <img
