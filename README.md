@@ -19,7 +19,7 @@
 </p>
 
 - 🔭 I’m currently working on **Back-End**
-- 🌱 I’m currently learning **PHP/Laravel**
+- 🌱 I’m currently learning **NodeJS/PHP/Laravel**
 - 💬 Ask me about **Front-end React-JS**
 - 📫 How to reach me **inaeem707@gmail.com**
 - ⚡ Fun fact, **I am Funny**
