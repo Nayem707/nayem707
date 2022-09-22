@@ -1,6 +1,6 @@
 <h1> Hi👋 I am Nayem Islam</h1>
 <h3 align="left"> 
-   Web Designer & Devlopment
+   Web Development & Designer 
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
