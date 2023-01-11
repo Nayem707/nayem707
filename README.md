@@ -18,11 +18,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Back-End**
-- 🌱 I’m currently learning **NodeJS/PHP/Laravel**
-- 💬 Ask me about **Front-end React-JS**
+- 🔭 I’m currently learning **everything** 🤣
+- 👯 I’m looking to **collaborate** with other web developers.
+- 🥅 2021 Goals: Contribute to **Open Source** projects
+- 💬 Ask me about **MERN stack**
 - 📫 How to reach me **inaeem707@gmail.com**
-- ⚡ Fun fact, **I am Funny**
+- ⚡ Fun fact, **I am Super Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
