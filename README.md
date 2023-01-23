@@ -12,10 +12,10 @@
 
 - 🔭 I’m currently learning **everything** 🤣
 - 👯 I’m looking to **collaborate** with other web developers.
-- 🥅 2021 Goals: Contribute to **Open Source** projects
-- 💬 Ask me about **MERN stack**
+- 🥅 2021 Goals: Contribute to **Open Source** projects.
+- 💬 Ask me about **MERN stack** Development.
 - 📫 How to reach me **inaeem707@gmail.com**
-- ⚡ Fun fact, **I am Super Funny**
+- ⚡ Fun fact, **I am Super Funny**! 🤣🤣🤣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -97,16 +97,6 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -122,6 +112,16 @@
       width="40"
       height="40"
     />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -166,14 +166,6 @@
       height="40"
     />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -182,6 +174,16 @@
       height="40"
     />
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <p>Other Applications:</p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -190,7 +192,6 @@
       height="40"
     />
   </a>
-  <p>Others Application:</p>
   <a
     href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank"
@@ -216,7 +217,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem707&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Nayem707&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 <p>
   <img
     align="center"
