@@ -10,14 +10,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/snnayem707" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/snnayem707?logo=twitter&style=for-the-badge"
-      alt="snnayem707"
-  /></a>
-</p>
-
 - 🔭 I’m currently learning **everything** 🤣
 - 👯 I’m looking to **collaborate** with other web developers.
 - 🥅 2021 Goals: Contribute to **Open Source** projects
