@@ -221,16 +221,20 @@
   </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem707&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
+![](https://github-readme-stats.vercel.app/api?username=Nayem707&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nayem707&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem707&"
     alt="nayem707"
   />
 </p>
+
+
+
+
 
 
