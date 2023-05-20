@@ -122,18 +122,20 @@
 </p>
 <br>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=nayem707" alt="nayem707" />
-</a>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact" alt="nayem707" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact" alt="nayem707" />
-</p>
-
+<br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&locale=en" alt="nayem707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayem707&" alt="nayem707" /></p>
 
-<h4 align="left">Support:</h4>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <br>
+<img src="https://github-profile-trophy.vercel.app/?username=nayem707" alt="nayem707" />
+</a>
+</p>
+
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/gangsn490p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/gangsn490p" /></a><a href="https://ko-fi.com/https://ko-fi.com/snislam#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/snislam#paypalModal" /></a></p><br><br>
