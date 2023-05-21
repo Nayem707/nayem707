@@ -22,7 +22,7 @@
   </a>
 <a href="https://web.facebook.com/inayem707/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/inayem707/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/inaeem707/" target="blank">
+<a href="https://www.instagram.com/inaeem707/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/inaeem707/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6E2R0w0AGtiX_zk1fT4Rew" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6e2r0w0agtix_zk1ft4rew" height="30" width="40" /></a>
