@@ -125,7 +125,7 @@
     </a>
 
 <h5 align="left">Tools:</h5>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
     </a>
 
@@ -161,20 +161,21 @@
       alt="photoshop" width="40" height="40" />
     </a>
     </p>
+    </br>
 <p align="left">
       <img align="center" width=350
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact&theme=transparent&card_width=320"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=320"
         alt="nayem707" />
     </p>
 <p align="left">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&theme=dracula"
         alt="nayem707" />
     </p>
 
 <p align="left">
       <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=nayem707&theme=transparent"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nayem707&theme=dracula"
       alt="nayem707" />
     </p>
     <p>
