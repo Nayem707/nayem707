@@ -143,8 +143,11 @@
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <br>
-<img src="https://github-profile-trophy.vercel.app/?username=nayem707" alt="nayem707" />
+<img src="https://github-profile-trophy.vercel.app/?username=nayem707&ma&theme=darkhub&ma&column=4&margin-w=15&margin-h=15" alt="nayem707" />
+
+  
 </a>
+  
 </p>
 
 <h3 align="left">Support:</h3>
