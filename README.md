@@ -173,10 +173,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35" />
     </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
-        alt="docker" width="35" height="35" />
-    </a>
+
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35" />
     </a>
