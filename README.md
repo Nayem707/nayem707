@@ -143,14 +143,14 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"  />
     </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+        alt="mysql" width="40" height="40" />
+    </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
         alt="postgresql" width="37" height="37" />
-    </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
-        alt="mysql" width="40" height="40" />
     </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img
@@ -209,7 +209,21 @@
       src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"
       alt="photoshop" width="35" height="35" />
     </a>
-
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img
+      src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-1-286048.png"
+      alt="photoshop" height="35" />
+    </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img
+      src="https://avatars.githubusercontent.com/u/50545563?v=4"
+      alt="photoshop" height="35" />
+    </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png"
+      alt="photoshop" height="25" />
+    </a>
 </p>
 
 <p align="left">
