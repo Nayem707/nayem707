@@ -1,254 +1,101 @@
-<h1 align="left">Hi 👋, I'm Nayem Islam</h1>
-  <h3 align="left">Junior Software Developer</h3>
+![NAYEM ISLAM](https://github.com/user-attachments/assets/9b34d845-b76b-4bb6-a9df-0af33e5065e2)
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat"
-      alt="nayem707" />
-  </p>
+# Hi 👋, I'm Nayem Islam
+
+### Junior Software Developer
+
+Enthusiastic Software Developer with expertise in both backend and frontend technologies, eager to contribute to building and developing applications. Seeking a Software Developer role to leverage hands-on experience in software
+development and deliver impactful solutions.
+
+![Profile Views](https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently learning **everything** 🤣
 - 👯 I’m looking to **collaborate** with other web developers.
 - 🥅 2021 Goals: Contribute to **Open Source** projects.
 - 💬 Ask me about **MERN stack** Development.
-- 📫 How to reach me **inaeem707@gmail.com**
-- ⚡ Fun fact, **I am Super Funny**! 🤣🤣🤣
+- 📫 How to reach me: **inaeem707@gmail.com**
+- ⚡ Fun fact: **I am Super Funny**! 🤣🤣🤣
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/snnayem707" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="https://twitter.com/snnayem707" height="30" width="40" />
-      </a>
-<a href="https://www.linkedin.com/in/nayem-islam-281b76240/" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="https://www.linkedin.com/in/nayem-islam-281b76240/" height="30" width="40" />
-      </a>
-<a href="https://web.facebook.com/inayem707/" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="https://web.facebook.com/inayem707/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/inaeem707/" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="https://www.instagram.com/inaeem707/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC6E2R0w0AGtiX_zk1fT4Rew" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-          alt="https://www.youtube.com/channel/uc6e2r0w0agtix_zk1ft4rew" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gangsn490" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-          alt="https://www.hackerrank.com/gangsn490" height="30" width="40" /></a>
-<a href="https://leetcode.com/nayem-islam/" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-          alt="https://leetcode.com/nayem-islam/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@gangsn490" target="blank">
-        <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-          alt="https://www.hackerearth.com/@gangsn490" height="30" width="40" /></a>
-</p>
+#### 🔗 Connect with me
 
-</br>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/snnayem707)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayem-islam-281b76240/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/inayem707/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/inaeem707/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6E2R0w0AGtiX_zk1fT4Rew)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gangsn490)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nayem-islam/)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@gangsn490)
 
-<h3 align="left">Language & Frameworks:</h3>
-<h5 align="left">Front-end:</h5>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5" width="40" height="40" />
-      </a>
+## 🛠 Language & Frameworks
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3" width="40" height="40" />
-      </a>
+#### 💻 Front-end Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript" width="37" height="37" />
-      </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="37" height="37" />
-      </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-     height="38" />
-</a>
-<a href="https://react-query.com" target="_blank" rel="noreferrer">
-      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="redux"
-     height="36" />
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-006cc1?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0063b1?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![RSuite](https://img.shields.io/badge/RSuite-3366FF?style=for-the-badge&logo=rsuite&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="nextjs" height="38" />
-</a>
-<br>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap" width="40" height="40" />
-          </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-       height="40" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-    height="40" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://images.opencollective.com/rsuite/2674303/logo/256.png" alt="tailwind" width="30"
-    height="35" />
-</a>
-<a href="https://v4.material-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="tailwind" 
-    height="32" />
-</a>
-<a href="https://v4.material-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" alt="tailwind"
-    height="40" />
-</a>
-<a href="https://v4.material-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" alt="tailwind"
-    height="37" />
-</a>
-<a href="https://v4.material-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="tailwind"
-    height="40" />
-</a>
+#### 🌐 Back-end Tech Stack
 
-<h5 align="left" >Back-end:</h5>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
-        alt="nodejs" height="40" />
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png"
-        alt="express" width="40"  />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png"
-        alt="mysql" width="40" height="40" />
-    </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/download/331488/mongodb.svg"
-        alt="mongodb" width="40" height="40" />
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"  />
-    </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
-        alt="mysql" width="40" height="40" />
-    </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
-        alt="postgresql" width="37" height="37" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png"
-      alt="photoshop" width="35" height="35" />
-    </a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<h5 align="left">Tools:</h5>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="bash" width="35" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://user-images.githubusercontent.com/343840/103776943-cc69ce00-4ff5-11eb-9192-f48357e1c6d0.png"
-      alt="photoshop" height="40" />
-    </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
-    </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35" />
-    </a>
+#### ⚙️ Development Tools
 
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35" />
-    </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35" />
-    </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img 
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-      width="35" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop" width="35" height="35" />
-    </a>
-</br>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png"
-      alt="photoshop" width="35" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
-      alt="photoshop" width="35" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"
-      alt="photoshop" width="35" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-1-286048.png"
-      alt="photoshop" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://avatars.githubusercontent.com/u/50545563?v=4"
-      alt="photoshop" height="35" />
-    </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png"
-      alt="photoshop" height="25" />
-    </a>
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<p align="left">
-      <img align="center" width=350
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=320"
-        alt="nayem707" />
-    </p>
-<p align="left">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&theme=dracula"
-        alt="nayem707" />
-    </p>
+---
 
-<p align="left">
-      <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=nayem707&theme=dracula"
-      alt="nayem707" />
-    </p>
-    <p>
-    <img height=195 align="center" src="https://github-profile-trophy.vercel.app/?username=nayem707&ma&theme=dracula&ma&column=5&margin-w=5&margin-h=5" alt="nayem707" />
-    </p>
+#### I believe great things are built together. Join me in creating something amazing! 💪 Feel free to explore the repository and share your thoughts or suggestions.
 
-  <h4 align="left">Support:</h4>
-  <p>
-  <a href="https://www.buymeacoffee.com/https://bmc.link/gangsn490p">
-  <img  align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="130" alt="https://bmc.link/gangsn490p" />
-  </a>
-  <a href="https://ko-fi.com/https://ko-fi.com/snislam#paypalModal"> 
-  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="38" width="130" alt="https://ko-fi.com/snislam#paypalModal" />
-  </a>
-  </p>
+#### ✨ Happy Coding! ✨
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nayem707&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=320)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayem707&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayem707&theme=dracula)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nayem707&ma&theme=dracula&ma&column=5&margin-w=5&margin-h=5)
+
+---
+
+### ☕ Support Me
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/gangsn490p)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/snislam)
