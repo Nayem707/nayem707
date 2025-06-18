@@ -93,6 +93,8 @@ development and deliver impactful solutions.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nayem707&ma&theme=dracula&ma&column=5&margin-w=5&margin-h=5)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem707&theme=react-dark&hide_border=true&area=true)
+
 ---
 
 ### ☕ Support Me
