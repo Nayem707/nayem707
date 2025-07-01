@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nayem Islam
 
-### AI-Powered | Junior Microservices Developer | AI Learner | Full Stack Devloper
+### AI-Powered | Full Stack Dev | Microservices & AI Enthusiast | AI Learner 
 
 Enthusiastic Software Developer with expertise in both backend and frontend technologies, eager to contribute to building and developing applications. Seeking a Software Developer role to leverage hands-on experience in software
 development and delivering impactful solutions.
