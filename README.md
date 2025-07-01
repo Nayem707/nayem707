@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Nayem Islam
 
-### Junior Software Developer
+### AI-Powered | Junior Microservices Developer | AI Learner | Full Stack Devloper
 
 Enthusiastic Software Developer with expertise in both backend and frontend technologies, eager to contribute to building and developing applications. Seeking a Software Developer role to leverage hands-on experience in software
-development and deliver impactful solutions.
+development and delivering impactful solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -77,6 +77,7 @@ development and deliver impactful solutions.
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem707&theme=react-dark&hide_border=true&area=true)
 
 #### I believe great things are built together. Join me in creating something amazing! 💪 Feel free to explore the repository and share your thoughts or suggestions.
 
@@ -92,7 +93,6 @@ development and deliver impactful solutions.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nayem707&ma&theme=dracula&ma&column=5&margin-w=5&margin-h=5)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem707&theme=react-dark&hide_border=true&area=true)
 
 ---
 
