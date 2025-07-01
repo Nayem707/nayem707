@@ -2,19 +2,18 @@
 
 # Hi 👋, I'm Nayem Islam
 
-### AI-Powered | Full Stack Dev | Microservices & AI Enthusiast | AI Learner 
+### AI-Powered Full Stack Developer | Microservices & AI Enthusiast
 
-Enthusiastic Software Developer with expertise in both backend and frontend technologies, eager to contribute to building and developing applications. Seeking a Software Developer role to leverage hands-on experience in software
-development and delivering impactful solutions.
+Motivated and detail-oriented Full Stack Developer with hands-on experience in building scalable web applications using modern technologies like React.js and Node.js. Passionate about microservices, AI integration, and clean code. Eager to contribute to innovative teams while continuously learning and growing in the software industry.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently learning **everything** 🤣
-- 👯 I’m looking to **collaborate** with other web developers.
-- 🥅 2021 Goals: Contribute to **Open Source** projects.
-- 💬 Ask me about **MERN stack** Development.
-- 📫 How to reach me: **inaeem707@gmail.com**
-- ⚡ Fun fact: **I am Super Funny**! 🤣🤣🤣
+- 🔭 I’m currently diving deep into AI-powered web development and expanding my skills across the full MERN stack.
+- 👯 I’m eager to collaborate with passionate developers building intelligent, scalable applications.
+- 🥅 2025 Goals: Contribute to Open Source AI & Microservices projects.
+- 💬 Ask me about MERN stack, microservices, and AI integration.
+- 📫 How to reach me: inaeem707@gmail.com
+- ⚡ Fun fact: I’m not just a coder — I’m a super funny AI enthusiast! 🤖🤣
 
 #### 🔗 Connect with me
 
@@ -25,7 +24,6 @@ development and delivering impactful solutions.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6E2R0w0AGtiX_zk1fT4Rew)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gangsn490)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nayem-islam/)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@gangsn490)
 
 ## 🛠 Language & Frameworks
 
