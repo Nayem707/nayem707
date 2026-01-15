@@ -28,13 +28,13 @@ Motivated and detail-oriented Full Stack Developer with hands-on experience in b
 # Core Technical Stack
 
 ## **Key Proficiencies**
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, State Management
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express, Database Design, REST APIs
 - **Full-Stack**: End-to-end application development, API integration
 - **DevOps**: Vercel, AWS, CI/CD, Performance Optimization
 
 ## **Supporting Technologies**
-- **Styling**: CSS3, Sass, Bootstrap, Material UI
+- **Styling**: CSS3, Sass, Bootstrap, Familiar All Poplar UI
 - **Tools**: Git, VS Code, Postman, Figma
 - **Mobile**: React Native (Cross-platform development)
 - 
