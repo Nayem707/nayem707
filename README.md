@@ -25,19 +25,6 @@ Motivated and detail-oriented Full Stack Developer with hands-on experience in b
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gangsn490)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nayem-islam/)
 
-# Core Technical Stack
-
-## **Key Proficiencies**
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, Database Design, REST APIs
-- **Full-Stack**: End-to-end application development, API integration
-- **DevOps**: Vercel, AWS, CI/CD, Performance Optimization
-
-## **Supporting Technologies**
-- **Styling**: CSS3, Sass, Bootstrap, Familiar All Poplar UI
-- **Tools**: Git, VS Code, Postman, Figma
-- **Mobile**: React Native (Cross-platform development)
-- 
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem707&theme=react-dark&hide_border=true&area=true)
